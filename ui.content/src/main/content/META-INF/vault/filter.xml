@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/virtualstudymaster" mode="merge"/>
+    <filter root="/content/virtualstudymaster" mode="merge"/>
+    <filter root="/content/dam/virtualstudymaster/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/virtualstudymaster" mode="merge"/>
+</workspaceFilter>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/virtualstudymaster/clientlibs"/>
+    <filter root="/apps/virtualstudymaster/components"/>
+    <filter root="/apps/virtualstudymaster/i18n"/>
+</workspaceFilter>
